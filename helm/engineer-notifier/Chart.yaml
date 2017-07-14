@@ -1,4 +1,0 @@
-apiVersion: v1
-description: A Helm chart for engineer-notifier bot
-name: engineer-notifier
-version: 0.1.0
