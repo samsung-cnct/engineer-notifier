@@ -15,5 +15,4 @@ RUN bundle install
 
 ADD . /lib
 
-ENV PORT 9292
-EXPOSE 9292
+CMD bundle exec rackup
